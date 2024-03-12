@@ -1,0 +1,22 @@
+# ninja log v5
+86	941	7319387779974722	CMakeFiles/Masters_1.dir/Core/Startup/startup_stm32l476rgtx.s.obj	13ce5e6502d69602
+42	1135	7319387782312899	CMakeFiles/Masters_1.dir/Core/Src/syscalls.c.obj	84cb9b76d848161b
+30	1205	7319387782836177	CMakeFiles/Masters_1.dir/Core/Src/stm32l4xx_hal_msp.c.obj	b9d50f0ad29dbeb5
+2	1258	7319387783394897	CMakeFiles/Masters_1.dir/Core/Src/main.c.obj	2c5baefa9b7f504e
+70	1668	7319387783354943	CMakeFiles/Masters_1.dir/Core/Src/system_stm32l4xx.c.obj	4381999681981290
+101	1688	7319387786328368	CMakeFiles/Masters_1.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_cortex.c.obj	404de73ca0b30efd
+138	1706	7319387786398512	CMakeFiles/Masters_1.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_dma.c.obj	7c42c200e5b944ed
+56	1708	7319387787079675	CMakeFiles/Masters_1.dir/Core/Src/stm32l4xx_it.c.obj	48eb2300317e8d11
+238	1709	7319387788039819	CMakeFiles/Masters_1.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_flash.c.obj	99ac19e2911a1f48
+17	1725	7319387788120015	CMakeFiles/Masters_1.dir/Core/Src/sysmem.c.obj	21b8ea112259e516
+182	1896	7319387790101173	CMakeFiles/Masters_1.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_dma_ex.c.obj	d92c549d8da7836d
+118	1918	7319387790217816	CMakeFiles/Masters_1.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_exti.c.obj	ef2cc8084baa0ce5
+274	1963	7319387790524566	CMakeFiles/Masters_1.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_flash_ex.c.obj	b5836a47df2cc7a7
+254	1975	7319387790776979	CMakeFiles/Masters_1.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_flash_ramfunc.c.obj	fb9a5ba089082160
+1259	2393	7319387795248215	CMakeFiles/Masters_1.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal.c.obj	df64c4beb44cb1d3
+943	2419	7319387795318346	CMakeFiles/Masters_1.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_pwr_ex.c.obj	c4f6944582bd7c7f
+1206	2430	7319387795459139	CMakeFiles/Masters_1.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_gpio.c.obj	998296551da94e19
+1137	2453	7319387795885335	CMakeFiles/Masters_1.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_pwr.c.obj	d3309614f417c8a2
+1671	2658	7319387797961904	CMakeFiles/Masters_1.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_rcc.c.obj	57d03485021fed01
+1689	2734	7319387798683749	CMakeFiles/Masters_1.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_rcc_ex.c.obj	b7dd4ca828937394
+2736	3434	7319387803240948	Masters_1.elf	3b716fc0aec8f36e
